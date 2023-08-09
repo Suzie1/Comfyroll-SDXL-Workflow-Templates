@@ -4,6 +4,14 @@ __A collection of workflow templates for use with Comfy UI__
 These workflow templates are intended as multi-purpose templates for use on a wide variety of projects.
 They can be used with any SDLX checkpoint model.
 
+### List of Templates
+* Comfyroll Simple SDXL Template A v3.1
+* Comfyroll Simple SDXL Template B v3.1
+* Comfyroll Intermediate SDXL Template A v3.1
+* Comfyroll Intermediate SDXL Template B v3.1
+* Comfyroll Advanced SDXL Template A v3.1
+* Comfyroll Advanced SDXL Template B v3.1
+
 ### Installation
 * clone the workflows
   *  cd to your workflow folder
@@ -29,14 +37,6 @@ Varies by template:
 * select a default LoRA in each Load LoRA node
 * do a test run
 * save a copy to use as your template
-
-### List of Templates
-* Comfyroll Simple SDXL Template A v3.1
-* Comfyroll Simple SDXL Template B v3.1
-* Comfyroll Intermediate SDXL Template A v3.1
-* Comfyroll Intermediate SDXL Template B v3.1
-* Comfyroll Advanced SDXL Template A v3.1
-* Comfyroll Advanced SDXL Template B v3.1
 
 ### Resources
 
