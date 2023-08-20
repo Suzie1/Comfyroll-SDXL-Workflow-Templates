@@ -11,6 +11,7 @@ They can be used with any SDLX checkpoint model.
 * Comfyroll Intermediate SDXL Template B v3.1
 * Comfyroll Advanced SDXL Template A v3.1
 * Comfyroll Advanced SDXL Template B v3.1
+* Comfyroll SDXL MultiControlNet v0.2
 
 ### Installation
 * clone the workflows
